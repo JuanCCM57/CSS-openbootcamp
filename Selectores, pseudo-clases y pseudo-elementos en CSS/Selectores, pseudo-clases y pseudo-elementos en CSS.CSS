@@ -1,0 +1,8 @@
+span.frase:hover{
+    background-color: green;
+    color: white;
+}
+
+span.frase:hover:after{
+    content: '¡hecho!';
+}
